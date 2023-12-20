@@ -1,0 +1,4 @@
+Entre no api_get_server e execute o código (deixe executando)
+
+Copie e cole esse link em um navegador do windows:
+http://localhost:5000/apiGet/v1/consulta/DB/atacado_varejo

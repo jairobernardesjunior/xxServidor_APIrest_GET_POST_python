@@ -1,0 +1,3 @@
+Entre no api_post_server.py e execute o código (deixe executando)
+
+Entre no consome_api_post.py e execute com debug para executar em novo terminal (isso no vscode)
